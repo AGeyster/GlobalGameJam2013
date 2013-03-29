@@ -1,0 +1,3 @@
+FILE DELETED
+
+HeartNinjaLate.rar->HeartNinjaAG\Platformer\Platformer\bin\x86\Debug\Platformer.exe has been removed since it was found to match the FILE FILTER= ExchangeLabs File Filter List 1: <in> *.exe file filter.
